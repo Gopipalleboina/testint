@@ -1,0 +1,28 @@
+import java.util.Scanner;
+public class operators {
+    public static void main(String[] args){
+        float pi=3.14f;
+        Scanner sc=new Scanner(System.in);
+        int a=sc.nextInt();
+        int b=sc.nextInt();
+       /* int c=2*(a+b);
+        int d=a*a;
+        int e=4*a;
+        int w=a*b;
+        float f=1/2*w;
+        int g=a+a+b;
+        int h=(int)pi*a*a;
+        int i=2*(int)pi*a;
+        
+        System.out.println(c);
+        System.out.println(d);
+        System.out.println(e);
+        System.out.println(f);
+        System.out.println(g);
+        System.out.println(h);
+        System.out.println(i);*/
+        int x=((a+b)/2)*h;
+        System.out.println(x);
+    }
+    
+}
